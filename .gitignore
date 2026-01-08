@@ -1,0 +1,21 @@
+# Flutter/Dart
+.dart_tool/
+build/
+*.dill
+*.apk
+*.aab
+.flutter-plugins*
+ios/.symlinks/
+ios/Pods/
+
+# PHP / Backend
+course_rep_backend/course_rep/error_log
+course_rep_backend/course_rep/uploads/
+
+# General
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+*.zip
